@@ -1,2 +1,5 @@
 # conflict-resolution
-![The GitHub repository creation page allows a user to name, describe, and add a README file.](./Images/01-github-repo-create.png)
+
+## This is a subheading created locally
+
+All of this content added to the readme file has been added from my local Git repository.
